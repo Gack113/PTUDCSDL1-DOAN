@@ -1,0 +1,4 @@
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\HardWare\bin\Debug\HardWare.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\HardWare\bin\Debug\HardWare.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\HardWare\obj\Debug\HardWare.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\HardWare\obj\Debug\HardWare.pdb

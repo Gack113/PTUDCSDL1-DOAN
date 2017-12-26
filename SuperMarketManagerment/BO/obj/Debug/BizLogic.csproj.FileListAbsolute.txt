@@ -1,0 +1,41 @@
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\obj\Debug\BizLogic.csprojResolveAssemblyReference.cache
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\BizLogic.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\BizLogic.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\Common.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\DAL.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\Vietnamese.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\Common.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\DAL.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\bin\Debug\Entities.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\obj\Debug\BizLogic.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\BO\obj\Debug\BizLogic.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\BizLogic.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\BizLogic.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\Common.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\DAL.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\Vietnamese.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\Common.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\DAL.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\bin\Debug\Entities.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\obj\Debug\BizLogic.csprojResolveAssemblyReference.cache
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\obj\Debug\BizLogic.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\BO\obj\Debug\BizLogic.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\BizLogic.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\BizLogic.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\Common.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\DAL.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\Entities.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\Vietnamese.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\Common.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\DAL.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\Entities.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\obj\Debug\BizLogic.csprojResolveAssemblyReference.cache
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\obj\Debug\BizLogic.csproj.CoreCompileInputs.cache
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\obj\Debug\BizLogic.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\obj\Debug\BizLogic.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\BO\bin\Debug\CrystalDecisions.Windows.Forms.dll

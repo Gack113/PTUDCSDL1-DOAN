@@ -1,0 +1,18 @@
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Entity\bin\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Entity\bin\Debug\Entities.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Entity\obj\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Entity\obj\Debug\Entities.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Entity\bin\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Entity\bin\Debug\Entities.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Entity\obj\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Entity\obj\Debug\Entities.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\bin\Debug\Entities.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\bin\Debug\Entities.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\obj\Debug\Entities.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\obj\Debug\Entities.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Entity\bin\Debug\CrystalDecisions.Windows.Forms.dll

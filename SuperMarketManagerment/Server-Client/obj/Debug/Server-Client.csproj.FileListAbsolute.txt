@@ -1,0 +1,46 @@
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\Server-Client.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\Server-Client.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\BizLogic.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\Common.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\DAL.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\Vietnamese.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\BizLogic.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\Common.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\Entities.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\bin\Debug\DAL.pdb
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.csprojResolveAssemblyReference.cache
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.dll
+D:\DuAn_MaNguon\Sell source code\winform\vna-accounting-master\vna-accounting-master\source2\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\Server-Client.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\Server-Client.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\BizLogic.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\Common.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\Entities.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\DAL.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\Vietnamese.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\BizLogic.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\Common.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\Entities.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\bin\Debug\DAL.pdb
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.csprojResolveAssemblyReference.cache
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.dll
+D:\DuAn_MaNguon\Sell source code\winform\Quan Ly SThi_10tr\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\Server-Client.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\Server-Client.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\BizLogic.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\Common.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\Entities.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\DAL.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\Vietnamese.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\BizLogic.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\Common.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\Entities.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\DAL.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.csprojResolveAssemblyReference.cache
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.csproj.CoreCompileInputs.cache
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\obj\Debug\Server-Client.pdb
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gack1\Desktop\New folder (3)\SuperMarketManagerment\Server-Client\bin\Debug\CrystalDecisions.ReportSource.dll
